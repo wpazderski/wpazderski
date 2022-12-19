@@ -1,7 +1,7 @@
-I'm a fully remote full-stack software developer. I most often use:
+I'm a full-stack software developer. I specialize in:
 - TypeScript,
 - HTML5, CSS3, LESS/SCSS,
-- React, Redux,
+- React, Redux Toolkit,
 - Node.js, Express,
 - Electron,
 - webpack.
